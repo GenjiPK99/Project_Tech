@@ -1,0 +1,75 @@
+h2{
+font-family: 'Unbounded', cursive;
+position:absolute;
+margin-bottom: 500px;
+left: 800px;
+margin-right: 100px;
+}
+
+h3{
+    font-family: 'Unbounded', cursive;
+    position:absolute;
+    left: 800px;
+    top: 350px;
+    margin-right: 700px;
+
+}
+h4{
+    font-family: 'Comfortaa', cursive;;
+    position:absolute;
+    left: 800px;
+    top: 400px;
+    margin-right: 100px;
+
+}
+
+.navbar{
+    background-image: url(./Immagini/Tech.jpg);
+    height: 200px;
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+
+.lista{
+    list-style-type: none;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    position: relative;
+    left: 300px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+.logo {
+    display: flex;
+    position: absolute;
+    top: 0px;
+    margin-left: 150px;
+}
+
+.product-image{
+  
+    align-items: right;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    
+}
+.product-figli{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stile{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    color: black;
+    font-family: 'Unbounded', cursive;
+    margin-right: 120px;
+   }
+
